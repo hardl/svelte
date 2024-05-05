@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.124
+
+### Patch Changes
+
+- fix: restore value after attribute removal during hydration ([#11465](https://github.com/sveltejs/svelte/pull/11465))
+
 ## 5.0.0-next.123
 
 ### Patch Changes
